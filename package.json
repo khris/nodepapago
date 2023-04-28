@@ -8,8 +8,7 @@
     "MaReunEolEum <junho8590@gmail.com> (https://github.com/MaReunEolEum)"
   ],
   "scripts": {
-    "test": "tsc && node test",
-    "postinstall": "npm i --save-dev @types/uuid && tsc"
+    "test": "tsc && node test"
   },
   "repository": {
     "type": "git",
